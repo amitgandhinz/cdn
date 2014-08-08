@@ -14,7 +14,7 @@
 Welcome to Poppy's developer documentation!
 =================================
 
-Poppy is an OpenStack related project to provide a generic and modular vendor-neutral API that wraps provisioning instructions for CDN vendors that support it.
+Poppy is an OpenStack related project to provide a generic and modular vendor-neutral API which wraps provisioning instructions for CDN vendors that support it.
 
 Poppy, as with all OpenStack projects, is written with the following design
 guidelines in mind:

@@ -26,6 +26,8 @@
 
 .. toctree::
 
+   poppy.model
+   
    poppy.transport
    poppy.manager
    poppy.storage

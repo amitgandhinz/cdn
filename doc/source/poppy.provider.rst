@@ -1,4 +1,4 @@
-The :mod:`poppy.provider` Drivers
+The :mod:`poppy.provider` Extensions
 =================================
 
 The :mod:`poppy.provider.base` Base Classes
@@ -30,7 +30,7 @@ The :mod:`poppy.provider.base` Base Classes
     :show-inheritance:
 
 
-The :mod:`poppy.provider.fastly` Driver
+The :mod:`poppy.provider.fastly` Extension
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.provider.fastly
@@ -54,7 +54,7 @@ The :mod:`poppy.provider.fastly` Driver
     :show-inheritance:
 
 
-The :mod:`poppy.provider.mock` Driver
+The :mod:`poppy.provider.mock` Extension
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.provider.mock

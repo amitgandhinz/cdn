@@ -1,5 +1,5 @@
 The :mod:`poppy.transport` Drivers
-=================================
+==================================
 
 .. automodule:: poppy.transport
     :members:
@@ -19,7 +19,7 @@ The :mod:`poppy.transport` Drivers
 
 
 The :mod:`poppy.transport.pecan` Driver
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.transport.pecan.controllers.base
     :members:
@@ -48,7 +48,7 @@ The :mod:`poppy.transport.pecan` Driver
 
 
 The :mod:`poppy.transport.falcon` Driver
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.transport.falcon.app
     :members:

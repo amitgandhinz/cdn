@@ -2,7 +2,7 @@ The :mod:`poppy.storage` Drivers
 =================================
 
 The :mod:`poppy.storage.base` Base Classes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.storage.base
     :members:
@@ -48,7 +48,7 @@ The :mod:`poppy.storage.cassandra` Driver
     :show-inheritance:
 
 The :mod:`poppy.storage.mongodb` Driver
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.storage.mongodb
     :members:
@@ -71,7 +71,7 @@ The :mod:`poppy.storage.mongodb` Driver
     :show-inheritance:
 
 The :mod:`poppy.storage.mockdb` Driver
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.storage.mockdb
     :members:

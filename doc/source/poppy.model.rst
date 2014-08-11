@@ -1,5 +1,5 @@
 The :mod:`poppy.model` Module
-=================================
+=============================
 
 .. automodule:: poppy.model.service
     :members:

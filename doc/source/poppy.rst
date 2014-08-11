@@ -12,7 +12,7 @@
       under the License.
 
 ``poppy`` Package
-==================
+=================
 
 .. automodule:: poppy.bootstrap
     :members:
@@ -27,7 +27,7 @@
 .. toctree::
 
    poppy.model
-   
+
    poppy.transport
    poppy.manager
    poppy.storage

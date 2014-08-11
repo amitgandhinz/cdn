@@ -62,9 +62,9 @@ Developer Docs
 ==============
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   developerguide
+   poppy
 
 
 Using Poppy's API

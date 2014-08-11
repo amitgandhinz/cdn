@@ -1,7 +1,7 @@
 The :mod:`poppy.manager` Drivers
 =================================
 
-The :mod:`poppy.manager` Base Classes
+The :mod:`poppy.manager.base` Base Classes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.manager.base.driver

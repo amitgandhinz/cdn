@@ -1,7 +1,7 @@
 The :mod:`poppy.storage` Drivers
 =================================
 
-The :mod:`poppy.storage` Base Classes
+The :mod:`poppy.storage.base` Base Classes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. automodule:: poppy.storage.base

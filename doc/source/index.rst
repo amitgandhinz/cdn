@@ -40,8 +40,8 @@ Concepts
 
    glossary
 
-Installing/Configuring Poppy
-============================
+Installing Poppy for local development
+======================================
 
 .. toctree::
    :maxdepth: 1

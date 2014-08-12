@@ -1,8 +1,7 @@
 Installing Poppy
 ================
 
-**Note:** These instructions are for running a local instance of Poppy and
-not all of these steps are required. 
+**Note:** These instructions are for running a local instance of Poppy.  We suggest you run this inside a `virtualenv`_.
 
 It is assumed you have `CassandraDB`_ installed and running.  We recommend using Docker (see below)
 
@@ -64,15 +63,6 @@ It is assumed you have `CassandraDB`_ installed and running.  We recommend using
     Content-Type: application/json-home
     Cache-Control: max-age=86400
 
-10. Running tests
-
-   First install the additional requirements::
-
-    $ pip install tox
-
-   And then run tests::
-
-    $ tox
 
 
 Installing `CassandraDB`_ (using Docker)
@@ -100,5 +90,5 @@ Installing `CassandraDB`_ (using Docker)
 
 
 .. _`CassandraDB` : http://cassandra.apache.org
-
+.. _`virtualenv` : https://pypi.python.org/pypi/virtualenv/
 

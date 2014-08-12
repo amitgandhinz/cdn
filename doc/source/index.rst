@@ -40,13 +40,15 @@ Concepts
 
    glossary
 
-Installing Poppy for local development
-======================================
+Getting Started
+===============
 
 .. toctree::
    :maxdepth: 1
 
-   installing
+   gettingstarted_installing
+   gettingstarted_testing
+   gettingstarted_contributing
 
 
 Operating Poppy
